@@ -1,4 +1,6 @@
 ### Hi there 👋
+ola sou isaac gabriel
+![](https://media1.tenor.com/m/mdxwKr_DbQYAAAAC/rosh98-rosh95.gif)
 
 <!--
 **isaacgabrielcardosotavares/isaacgabrielcardosotavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
